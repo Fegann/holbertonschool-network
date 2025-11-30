@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script that changes localhost and facebook.com IPs
 
 # Check if running as root
