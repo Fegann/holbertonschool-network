@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script that pings an IP address 5 times
 # Usage if no argument is provided
 
