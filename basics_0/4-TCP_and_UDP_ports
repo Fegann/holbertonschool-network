@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
 #
+
 sudo netstat -tulpn
 
+sudo netstat -lxpn
